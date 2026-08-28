@@ -1,3 +1,6 @@
+![Inventra Banner](docs/assetsntra
+
+> Smart Data • Automation • AI Integration • Workflow Management
 # Inventra
 
 ## Overview
