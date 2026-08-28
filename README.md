@@ -1,10 +1,12 @@
-# Project Name
+# Inventra
 
 ## Overview
 
-This project aims to provide a modern, scalable, and maintainable platform designed to deliver high performance, an excellent user experience, and seamless integration with modern technologies and AI services.
+Inventra is a modern, scalable, and maintainable platform designed to centralize data, automation, artificial intelligence, and business processes within a single ecosystem.
 
-The application is designed to be accessible from desktop, tablet, and mobile devices while maintaining security, flexibility, and future extensibility.
+The platform aims to provide high performance, an excellent user experience, and seamless integration with modern technologies, AI services, APIs, and automation tools.
+
+Inventra is designed to be accessible from desktop, tablet, and mobile devices while maintaining security, flexibility, and future extensibility.
 
 ---
 
